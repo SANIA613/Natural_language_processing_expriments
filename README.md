@@ -49,9 +49,6 @@ NLP_Experiments/
 │
 └── README.md
 ```
-
-> **Note:** Experiments are being implemented progressively as part of the practical sessions. Only completed experiments contain their implementation and results.
-
 ## Objective
 
 The main objective of this repository is to understand and implement various **Natural Language Processing techniques** through practical experimentation using Python and machine learning/deep learning libraries.
